@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from 'react'
+import React, { useState } from 'react'
+import Axios from 'axios'
+export default function App() {
 
-function App() {
+  const [joke, setjoke] = useState("")
+  const getjoke=()=>{
+    Axios.get("https://reactnative.dev/movies.json").then((response)=>{
+      console.log(response);
+    
+      setjoke("Title -->" + response.data.title  +"movies-->" + response.data.description+"description-->" + response.data.movies)
+    })
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <button onClick={getjoke}>Get </button>
+      {joke}
     </div>
-  );
+  )
 }
-
-export default App;

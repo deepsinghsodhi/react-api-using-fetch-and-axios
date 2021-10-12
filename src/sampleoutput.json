@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Evergrande misses 3rd round of bond coupon payments, intensifying contagion fears - Reuters",
+            "description": "China Evergrande Group <a href=\"https://www.reuters.com/companies/3333.HK\" target=\"_blank\">(3333.HK)</a> on Tuesday missed its third round of bond payments in three weeks, intensifying market fears over contagion involving other property developers as a wall …",
+            "url": "https://www.reuters.com/world/china/looming-evergrande-bond-coupon-payments-intensify-contagion-fears-2021-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/nHUfPBupobfPdICp0wkCs6YitYE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6GKUO5A465OIHGSM3DVHRMDMAQ.jpg",
+            "publishedAt": "2021-10-12T05:18:00Z",
+            "content": "The logo of China Evergrande is seen at outside China Evergrande Centre building in Hong Kong, China September 23, 2021. REUTERS/Tyrone SiuHONG KONG, Oct 12 (Reuters) - China Evergrande Group (3333.H… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, CNN",
+            "title": "Jon Gruden has resigned as head coach of the Las Vegas Raiders after reports of homophobic, racist and misogynistic emails - CNN",
+            "description": "Jon Gruden resigned Monday as head coach of the Las Vegas Raiders after reports emerged of him using homophobic, racist and misogynistic language in emails while he worked as an ESPN analyst.",
+            "url": "https://www.cnn.com/2021/10/11/us/nfl-jon-gruden-homophobic-misogynistic-emails-spt/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211011202715-jon-gruden-file-super-tease.jpg",
+            "publishedAt": "2021-10-12T04:35:00Z",
+            "content": "(CNN)Jon Gruden resigned Monday as head coach of the Las Vegas Raiders after reports emerged of him using homophobic, racist and misogynistic language in emails while he worked as an ESPN analyst.\r\n\"… [+3258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rebecca Robbins",
+            "title": "Merck Asks F.D.A. for Emergency Approval of Covid Pill - The New York Times",
+            "description": "The company is seeking federal sign-off for the pill to be given to high-risk people sick with Covid. Tens of millions of Americans could be eligible.",
+            "url": "https://www.nytimes.com/2021/10/11/science/merck-antiviral-covid-pill.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/11/lens/11virus-briefing-merck-pill-02/11virus-briefing-merck-pill-02-facebookJumbo.jpg",
+            "publishedAt": "2021-10-12T04:25:00Z",
+            "content": "Merck said on Monday that it had submitted an application to the Food and Drug Administration to authorize what would be the first antiviral pill to treat Covid.\r\nClearance for the drug, molnupiravir… [+1039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jamison Hensley",
+            "title": "Down 19 points, QB Lamar Jackson rallies Baltimore Ravens to comeback win over Indianapolis Colts - ESPN",
+            "description": "Rallying from 19 points down in the second half, Jackson led the Ravens to an improbable 31-25 comeback win over the Colts.",
+            "url": "https://www.espn.com/nfl/story/_/id/32385176/down-19-points-qb-lamar-jackson-rallies-baltimore-ravens-comeback-win-indianapolis-colts",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1012%2Fr921797_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-10-12T03:58:37Z",
+            "content": "BALTIMORE -- Baltimore Ravens quarterback Lamar Jackson didn't panic. He plotted. Down 19 points in the second half, Jackson sat down on the bench with wide receiver Marquise \"Hollywood\" Brown to tal… [+4027 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "The new Superman comes out as bisexual in an upcoming comic - CNN",
+            "description": "This version of Superman is Jon Kent, son of Clark Kent and Lois Lane. Like his father, he falls for a journalist -- this time, a male reporter named Jay Nakamura.",
+            "url": "https://www.cnn.com/2021/10/11/entertainment/superman-comes-out-bisexual-jon-kent-cec/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211011124502-04-jon-kent-superman-bisexual-comics-super-tease.jpg",
+            "publishedAt": "2021-10-12T03:55:00Z",
+            "content": "(CNN)Superman's done since he first appeared in comic books 80 years ago, almost. He's saved the world more than a few times. He's died and come back to life. He dodged punches from Muhammad Ali and … [+3267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSB Atlanta"
+            },
+            "author": "WSBTV.com News Staff",
+            "title": "2 Fulton County elections workers fired for allegedly shredding voter registration applications - WSB Atlanta",
+            "description": "Fulton County Commission Chairman Robb Pitts immediately reported the case to the office of Fulton County District Attorney Fani Willis for investigation.",
+            "url": "https://www.wsbtv.com/news/local/fulton-county/2-fulton-county-elections-workers-fired-allegedly-shredding-voter-registration-applications/NCCI4N5R3ZCKZCIAYAAM5NMXNQ/",
+            "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/HVLhoMsKMDF5ce2Z4iisU7gFNDM=/1440x960/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/10-12-2021/t_4927890a11e343dfbba755417caa26ce_name_ballors.jpg",
+            "publishedAt": "2021-10-12T03:51:00Z",
+            "content": "FULTON COUNTY, Ga. — The Fulton County Elections Director has fired two employees who are accused of shredding paper voter registration applications.\r\nRichard Barron said that 300 applications relate… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Red Sox vs. Rays score: Boston ousts Tampa with thrilling ALDS Game 4 victory - CBS Sports",
+            "description": "The Red Sox are going to the ALCS for the second time in four years after another walk-off win",
+            "url": "https://www.cbssports.com/mlb/news/red-sox-vs-rays-score-boston-ousts-tampa-with-thrilling-alds-game-4-victory/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/12/2c5f9690-727d-4913-a700-99594889a5c5/thumbnail/1200x675/d688be5074401ce86f27b5e886c57ffd/verdugo-red-sox-1.png",
+            "publishedAt": "2021-10-12T03:24:00Z",
+            "content": "Think back just a few days. It was Friday when Red Sox starter Chris Sale coughed up a grand slam in the first inning to Jordan Luplow, giving the Rays a 5-2 lead while already being up one game to n… [+6752 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Hyung-jin Kim",
+            "title": "Kim vows to build 'invincible' military while slamming US - Associated Press",
+            "description": "SEOUL, South Korea (AP) — North Korean leader Kim Jong Un reviewed powerful missiles developed to launch nuclear strikes on the U.S. mainland, as he vowed to build an “invincible” military to cope with what he called persistent U.S.",
+            "url": "https://apnews.com/article/north-korea-south-korea-seoul-united-states-60c8d0cce730fa25edcb2697df72254f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/831c73c19b3b4a00b00fa695881e747e/3000.jpeg",
+            "publishedAt": "2021-10-12T03:11:15Z",
+            "content": "SEOUL, South Korea (AP) North Korean leader Kim Jong Un reviewed powerful missiles developed to launch nuclear strikes on the U.S. mainland, as he vowed to build an invincible military to cope with w… [+4940 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amir Vera and Rebekah Riess, CNN",
+            "title": "Miami city manager suspends Art Acevedo as police chief with the intention of terminating him - CNN",
+            "description": "Acevedo has been with the department for six months.",
+            "url": "https://www.cnn.com/2021/10/11/us/art-acevedo-miami-police-suspension/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211008223550-art-acevedo-03-15-2021-super-tease.jpg",
+            "publishedAt": "2021-10-12T03:05:00Z",
+            "content": "(CNN)Miami City Manager Art Noriega has suspended Police Chief Art Acevedo \"with the intent to terminate his employment,\" according to a statement issued Monday by Noriega. \r\n\"The relationship betwee… [+4675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Saheli Roy Choudhury",
+            "title": "China isn't the only huge Asian economy with a coal shortage now - CNBC",
+            "description": "Most of India's coal-fired power plants have critically low levels of coal inventory just as the economy is picking up and fueling electricity demand.",
+            "url": "https://www.cnbc.com/2021/10/12/coal-shortage-india-could-soon-be-on-the-brink-of-a-power-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106956123-1633685418420-gettyimages-1235720793-INDIA_THERMAL_POWER.jpeg?v=1633685024",
+            "publishedAt": "2021-10-12T02:41:00Z",
+            "content": "Electricity pylons and chimneys at the Tata Power Co. Trombay Thermal Power Station in Mumbai, India, on Wednesday, Oct. 6, 2021.\r\nChina is not the only Asian giant grappling with an energy crunch  I… [+5905 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julius Young",
+            "title": "Damon Wayans on Dave Chappelle’s controversial Netflix special, standing up to ‘PC culture’: ‘He’s Van Gogh’ - Fox News",
+            "description": "Dave Chappelle is being criticized by many in the LGBTQ+ community for comments he made about transgender people in his stand-up special.",
+            "url": "https://www.foxnews.com/entertainment/damon-wayans-dave-chappelles-controversial-netflix-special-pc-culture",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Damon-Wayans_Dave-Chappelle_Getty.jpg",
+            "publishedAt": "2021-10-12T01:35:05Z",
+            "content": "Comedy great Damon Wayans is speaking out on the ongoing public schism surrounding Dave Chappelles latest comedy special \"The Closer\" and said he believes Chappelle is \"a unicorn\" for standing up to … [+3625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Unexpected Radio Signals From Distant Stars Suggest Hidden Planets - SciTechDaily",
+            "description": "Using the world’s most powerful radio antenna, scientists have discovered stars unexpectedly blasting out radio waves, possibly indicating the existence of hidden planets. The University of Queensland’s Dr. Benjamin Pope and colleagues at the Dutch national o…",
+            "url": "https://scitechdaily.com/unexpected-radio-signals-from-distant-stars-suggest-hidden-planets/",
+            "urlToImage": "https://scitechdaily.com/images/Planet-Near-Star.jpg",
+            "publishedAt": "2021-10-12T01:26:19Z",
+            "content": "ByUniversity of QueenslandOctober 11, 2021\r\nUsing the world’s most powerful radio antenna, scientists have discovered stars unexpectedly blasting out radio waves, possibly indicating the existence of… [+3954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Texas Gov. Greg Abbott bans COVID-19 vaccine mandates by private businesses - NPR",
+            "description": "Monday's executive order prohibits any entity, including private business, from enforcing a COVID-19 vaccine mandate on workers. Previously, Abbott banned mandates by public employers.",
+            "url": "https://www.npr.org/2021/10/11/1045142578/texas-governor-greg-abbott-ban-covid-vaccine-mandates",
+            "urlToImage": "https://media.npr.org/assets/img/2021/10/11/ap21265797375792_wide-4b4dbeb5af49509af6dd5ebdc521eb1b7547cf83.jpg?s=1400",
+            "publishedAt": "2021-10-12T01:18:41Z",
+            "content": "Texas Gov. Greg Abbott (seen here on Sept. 22) has issued an executive order banning private companies from enforcing COVID vaccine mandates.\r\nJoel Marinez/The Monitor via AP\r\nAUSTIN, Texas Texas Gov… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STLtoday.com"
+            },
+            "author": "Austin Huguelet, Mark Schlinkmann",
+            "title": "'I just want to get home': Lambert flights among hundreds of Southwest Airlines cancellations - STLtoday.com",
+            "description": "‘It’s a mess,’ said Elen Cantos, a Florida resident trying to get home from a vacation in Southern California.",
+            "url": "https://www.stltoday.com/business/local/i-just-want-to-get-home-lambert-flights-among-hundreds-of-southwest-airlines-cancellations/article_e617aae7-6423-59fc-97fb-1a02c8769290.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/12/312ea575-02fa-5bd8-8993-478826798116/61649e9233002.image.jpg?crop=1728%2C972%2C0%2C113&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2021-10-12T01:11:00Z",
+            "content": "I just want to get home, he said.\r\nAt Lambert, cancellations hit flights to and from cities all over the country to Atlanta, Milwaukee and several in Florida and from New York, Phoenix, Miami and Ora… [+1198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Gregory Yee",
+            "title": "Alisal fire near Santa Barbara shuts down 101 Freeway - Los Angeles Times",
+            "description": "Firefighters have been deployed to the growing Alisal fire in the Los Padres National Forest near Santa Barbara.",
+            "url": "https://www.latimes.com/california/story/2021-10-11/santa-barbara-brush-fire-evacuations",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/df7b7b2/2147483647/strip/true/crop/3924x2060+0+362/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F52%2F1e7785f64f85b118f0071c58a1a1%2Fla-photos-1staff-855043-la-me-alisal-fire-as-0001.JPG",
+            "publishedAt": "2021-10-12T01:07:30Z",
+            "content": "A growing brush fire near Santa Barbara is prompting evacuations as gusty conditions drive flames through rough terrain that hasnt burned in decades. \r\nThe Alisal fire broke out Monday afternoon, and… [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Brad Schmidt | The Oregonian/OregonLive",
+            "title": "Oregon passes 4,000 COVID deaths; weekly cases fall 13% - OregonLive",
+            "description": "Cases drop for a sixth straight week, but the toll of the delta surge continues.",
+            "url": "https://www.oregonlive.com/coronavirus/2021/10/oregon-passes-4000-covid-deaths-weekly-cases-fall-13.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/vdZ-_RAF7Kt2JwyowKcLolEx0ns=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FUZRQ4FRLZB3DAY6X2HRYTP354.png",
+            "publishedAt": "2021-10-12T00:52:26Z",
+            "content": "More than 4,000 Oregonians have died from COVID-19-related illnesses since the start of the pandemic, state officials announced Monday, surpassing a somber milestone even as other indicators show con… [+5010 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Samsung tries to prove its foldable phones are tough in a new test video - The Verge",
+            "description": "Samsung is sharing new details about how it tests the durability of the Galaxy Z Fold 3 and Z Flip 3. However, it’s unclear exactly why Samsung is releasing this information. It could be an attempt to assuage fears sparked by recent reports of cracks on Galax…",
+            "url": "https://www.theverge.com/2021/10/11/22721480/samsung-galaxy-foldables-testing-z-flip-3-screens-cracking",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/A_dJVHFt4na43LsfKb5Mw0HXWz4=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22790740/dseifert_4711_samsung_z_flip_3_22.jpg",
+            "publishedAt": "2021-10-12T00:00:00Z",
+            "content": "The video shows some tests Samsung uses for the Z Fold 3 and the Z Flip 3"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Kari Paul, Joanna Walters, Amanda Holpuch",
+            "title": "Indigenous activists march in Washington to demand action on climate crisis – as it happened - The Guardian",
+            "description": "Protesters arrested amid climate demonstrations on Indigenous Peoples’ Day – follow all the latest news",
+            "url": "https://www.theguardian.com/us-news/live/2021/oct/11/us-politics-indigenous-peoples-day-climate-crisis-live-latest",
+            "urlToImage": "https://i.guim.co.uk/img/media/7abf250befed5d28a2e47c77e41d4d0606d97486/0_33_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e45f510ea2f4f6ef5ad319b53dff377b",
+            "publishedAt": "2021-10-11T23:41:42Z",
+            "content": "The contributions that Indigenous peoples have made throughout history in public service, entrepreneurship, scholarship, the arts, and countless other fields are integral to our Nation, our culture, … [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Adult clouds are preventing baby clouds from being born - msnNOW",
+            "description": "Cloud seeds are getting lost in the sky, reducing opportunities for little clouds to form and help protect Earth.",
+            "url": "https://www.cnet.com/news/adult-clouds-are-preventing-baby-clouds-from-being-born/",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPo6EM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+            "publishedAt": "2021-10-11T23:16:35Z",
+            "content": "Jetting through the sky in a NASA aircraft, scientists discovered that about one-third of fresh cloud seedlings that originate in the ocean vanish into veteran clouds before birthing new ones. The di… [+4294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFLA"
+            },
+            "author": "Robert Pandolfino",
+            "title": "Teton County Coroner to hold press conference on Gabby Petito autopsy on Tuesday - WFLA",
+            "description": "Leaders with the Federal Bureau of Investigation confirmed on Sept. 19 human remains were found near Grand Teton National Park and matched the description of the missing 22-year-old North Port woman. An FBI spokesperson noted that full forensic identification…",
+            "url": "https://www.wfla.com/news/local-news/teton-county-coroner-to-hold-press-conference-on-gabby-petito-autopsy-on-tuesday/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2021/09/59a04525-8749-4156-a91e-0e929592c3ee-large16x9_Gabby1-4-1-1-1.jpeg?w=1280",
+            "publishedAt": "2021-10-11T23:12:32Z",
+            "content": "You can find the latest on the investigation involving Gabby Petito and Brian Laundrie here. Download the WFLA app for breaking news push alerts and sign up for breaking news email alerts.\r\nTAMPA (WF… [+977 chars]"
+        }
+    ]
+}
